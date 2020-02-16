@@ -20,9 +20,9 @@ The goals / steps of this project are the following:
 
 Project Rubric: https://review.udacity.com/#!/rubrics/1966/view
     
-My Project Writeup: https://github.com/johnrobinsn/CarND-Advanced-Lane-Lines/README.md
+My Project Writeup: https://github.com/johnrobinsn/CarND-Advanced-Lane-Lines/blob/master/README.md
 
-My Jupyter Notebook: https://github.com/johnrobinsn/CarND-Advanced-Lane-Lines/p2_advanced_lane_finding.ipynb
+My Jupyter Notebook: p2_advanced_lane_finding.ipynb
 
 More about the nanodegree program: https://www.udacity.com/drive
 
